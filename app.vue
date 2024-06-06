@@ -15,7 +15,7 @@ useHead({
     <div
       class="container flex flex-col h-svh ml-auto mr-auto justify-center items-center"
     >
-      <BlogCard name='Greg' />
+      <BlogCard />
     </div>
   </section>
 </template>
