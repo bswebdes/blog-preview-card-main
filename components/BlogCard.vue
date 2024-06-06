@@ -1,7 +1,7 @@
 <template>
   <div
     id="card"
-    class="p-6 bg-White flex flex-col gap-6 rounded-[1.25rem] shadow-black max-w-[384px]"
+    class="p-6 bg-White flex flex-col gap-6 rounded-[1.25rem] shadow-black max-w-[384px] border border-Black"
   >
     <img
       src="@/assets/images/illustration-article.svg"
