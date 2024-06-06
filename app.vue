@@ -6,7 +6,6 @@ useHead({
   title: 'Blog preview card',
   meta: [
     {
-      content: 'width=device-width, initial-scale=1',
       charset: 'utf-8',
     },
   ],
