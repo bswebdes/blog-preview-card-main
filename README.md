@@ -1,75 +1,17 @@
-# Nuxt 3 Minimal Starter
+# Frontend Mentor - Blog preview card solution
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Setup
+## Table of contents
 
-Make sure to install the dependencies:
+- [My process](#my-process)
+  - [Built with](#built-with)
 
-```bash
-# npm
-npm install
+## My process
 
-# pnpm
-pnpm install
+### Built with
 
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+- Semantic HTML5 markup
+- Teilwindcss
+- Flexbox
+- [Nuxt.js](https://nuxt.com/) - JS Framwork
