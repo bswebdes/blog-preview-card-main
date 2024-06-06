@@ -5,7 +5,11 @@ useHead({
   },
   title: 'Blog preview card',
   meta: [
-    { name: 'description', content: 'Blog preview card - by Benny Schey' },
+    {
+      name: 'viewport',
+      content: 'width=device-width, initial-scale=1',
+      charset: 'utf-8',
+    },
   ],
   bodyAttrs: {
     class: 'bg-Yellow',
