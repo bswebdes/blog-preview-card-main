@@ -16,11 +16,13 @@ useHead({
 </script>
 
 <template>
-  <section id="blogSection">
-    <div
-      class="container flex flex-col items-center justify-center ml-auto mr-auto h-svh"
-    >
-      <BlogCard />
-    </div>
-  </section>
+  <main role="main">
+    <section id="blogSection">
+      <div
+        class="container flex flex-col items-center justify-center ml-auto mr-auto h-svh"
+      >
+        <BlogCard />
+      </div>
+    </section>
+  </main>
 </template>
