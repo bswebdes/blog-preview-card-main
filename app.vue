@@ -1,5 +1,8 @@
 <script setup lang="ts">
 useHead({
+  htmlAttrs: {
+    lang: 'en',
+  },
   title: 'Blog preview card',
   meta: [
     { name: 'description', content: 'Blog preview card - by Benny Schey' },
