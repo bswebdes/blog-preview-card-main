@@ -26,8 +26,8 @@
     <div class="flex items-center gap-3">
       <img
         src="@/assets/images/greg.webp"
-        width="64px"
-        height="65px"
+        width="64"
+        height="65"
         alt="author.fullName"
         class="w-8 h-8"
       />

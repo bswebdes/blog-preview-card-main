@@ -6,7 +6,6 @@ useHead({
   title: 'Blog preview card',
   meta: [
     {
-      name: 'viewport',
       content: 'width=device-width, initial-scale=1',
       charset: 'utf-8',
     },
@@ -20,7 +19,7 @@ useHead({
 <template>
   <section id="blogSection">
     <div
-      class="container flex flex-col h-svh ml-auto mr-auto justify-center items-center"
+      class="container flex flex-col items-center justify-center ml-auto mr-auto h-svh"
     >
       <BlogCard />
     </div>
