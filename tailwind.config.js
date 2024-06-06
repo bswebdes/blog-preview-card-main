@@ -20,7 +20,8 @@ export default {
         Black: blackColor,
       },
       boxShadow: {
-        black: '8px 8px 0 0 ${blackColor}',
+        benny: '8px 8px 0 0 ${blackColor}',
+        bennyier: '16px 16px 0 0 ${blackColor}',
       },
     },
     plugins: [],
